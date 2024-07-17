@@ -1,0 +1,8 @@
+name: "Lufy the dog"
+picture: "lufy.jpg"
+owners: 
+  - Paul
+  - Sophie
+details:
+  gender: male
+  birthday: "21 janvier 1990"
