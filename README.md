@@ -139,7 +139,7 @@ pip install -r requirements.txt
 Use the following command to run PictureTemplate_demo:
 
 ```sh
-python main.py
+python main.py yaml_file
 ```
 
 
